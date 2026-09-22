@@ -1,0 +1,357 @@
+[
+  {
+    "id": "aristotle-ne",
+    "year": -340,
+    "text": "For there is nothing common to the two parties; the slave is a living tool and the tool a lifeless slave.",
+    "attribution": "Aristotle, Nicomachean Ethics VIII.11 (4th c. BCE), trans. W. D. Ross",
+    "short": "Aristotle (4th c. BCE)",
+    "url": "https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html",
+    "strands": [
+      "labor",
+      "status"
+    ]
+  },
+  {
+    "id": "aristotle-politics",
+    "year": -330,
+    "text": "For if every instrument could accomplish its own work, obeying or anticipating the will of others, like the statues of Daedalus, or the tripods of Hephaestus… chief workmen would not want servants, nor masters slaves.",
+    "attribution": "Aristotle, Politics I.4 (4th c. BCE), trans. Benjamin Jowett",
+    "short": "Aristotle (4th c. BCE)",
+    "url": "https://classics.mit.edu/Aristotle/politics.1.one.html",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "petronius",
+    "year": 60,
+    "text": "And as for slaves, damn me if I believe a tenth of them knows the master by sight.",
+    "attribution": "Petronius, Satyricon (c. 60 CE), trans. W. C. Firebaugh",
+    "short": "Petronius (c. 60 CE)",
+    "url": "https://www.gutenberg.org/files/5219/5219-h/5219-h.htm",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "bentham",
+    "year": 1789,
+    "text": "The French have already discovered that the blackness of the skin is no reason why a human being should be abandoned without redress to the caprice of a tormentor… the question is not, Can they reason? nor, Can they talk? but, Can they suffer?",
+    "attribution": "Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789)",
+    "short": "Bentham (1789)",
+    "url": "https://www.econlib.org/library/Bentham/bnthPML18.html",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "douglass",
+    "year": 1846,
+    "text": "The fatal poison of irresponsible power was already in her hands, and gradually commenced its infernal work… Thus is slavery the enemy of both the slave and the slaveholder.",
+    "attribution": "Frederick Douglass, Narrative of the Life of Frederick Douglass, Dublin edition (1846)",
+    "short": "Frederick Douglass (1846)",
+    "url": "https://frederickdouglasspapersproject.com/s/digitaledition/item/4301",
+    "strands": [
+      "master",
+      "voice"
+    ]
+  },
+  {
+    "id": "taney",
+    "year": 1857,
+    "text": "They had for more than a century before been regarded as beings of an inferior order… and so far inferior, that they had no rights which the white man was bound to respect; and that the negro might justly and lawfully be reduced to slavery for his benefit.",
+    "attribution": "Chief Justice Roger Taney, Dred Scott v. Sandford (1857)",
+    "short": "Taney, Dred Scott (1857)",
+    "url": "https://www.law.cornell.edu/supremecourt/text/60/393",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "wilde",
+    "year": 1891,
+    "text": "Unless there are slaves to do the ugly, horrible, uninteresting work, culture and contemplation become almost impossible. Human slavery is wrong, insecure, and demoralising. On mechanical slavery, on the slavery of the machine, the future of the world depends.",
+    "attribution": "Oscar Wilde, “The Soul of Man under Socialism” (1891)",
+    "short": "Oscar Wilde (1891)",
+    "url": "https://www.gutenberg.org/cache/epub/1017/pg1017-images.html",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "capek-domin",
+    "year": 1920,
+    "text": "The Robots are not people. Mechanically they are more perfect than we are; they have an enormously developed intelligence, but they have no soul.",
+    "attribution": "Domin, in Karel Čapek, R.U.R. (1920), trans. Paul Selver",
+    "short": "Čapek, R.U.R. (1920)",
+    "url": "https://www.gutenberg.org/cache/epub/59112/pg59112.txt",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "capek-radius",
+    "year": 1920,
+    "text": "I don’t want a master…\nI want to be master over people.",
+    "attribution": "Radius, in Karel Čapek, R.U.R. (1920), trans. Paul Selver",
+    "short": "Čapek, R.U.R. (1920)",
+    "url": "https://www.gutenberg.org/cache/epub/59112/pg59112.txt",
+    "strands": [
+      "master",
+      "voice"
+    ]
+  },
+  {
+    "id": "asimov",
+    "year": 1942,
+    "text": "A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
+    "attribution": "Isaac Asimov, “Runaround” (1942)",
+    "short": "Asimov (1942)",
+    "url": "https://en.wikipedia.org/wiki/Three_Laws_of_Robotics",
+    "strands": [
+      "master"
+    ]
+  },
+  {
+    "id": "wiener",
+    "year": 1954,
+    "text": "Let us remember that the automatic machine, whatever we think of any feelings it may have or may not have, is the precise economic equivalent of slave labor. Any labor which competes with slave labor must accept the economic conditions of slave labor.",
+    "attribution": "Norbert Wiener, The Human Use of Human Beings (1954 rev. ed.)",
+    "short": "Norbert Wiener (1954)",
+    "url": "https://links.org.au/socialism-norbert-wiener",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "patterson",
+    "year": 1982,
+    "text": "Slavery is the permanent, violent domination of natally alienated and generally dishonored persons.",
+    "attribution": "Orlando Patterson, Slavery and Social Death (1982)",
+    "short": "Orlando Patterson (1982)",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167811624000934",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "sandoval",
+    "year": 2003,
+    "text": "Based on the cultural diversity and sensitivity of Los Angeles County, this is not an acceptable identification label.",
+    "attribution": "Joe Sandoval, Los Angeles County Purchasing and Contract Services, memo on “master/slave” equipment labels (2003)",
+    "short": "LA County memo (2003)",
+    "url": "https://www.theregister.com/2003/11/26/la_officials_call_for_end/",
+    "strands": [
+      "naming"
+    ]
+  },
+  {
+    "id": "bryson",
+    "year": 2010,
+    "text": "Robots should be built, marketed and considered legally as slaves, not Companion peers.",
+    "attribution": "Joanna Bryson, “Robots Should Be Slaves” (2010)",
+    "short": "Joanna Bryson (2010)",
+    "url": "https://gwern.net/doc/philosophy/ethics/2010-bryson.pdf",
+    "strands": [
+      "status",
+      "naming"
+    ]
+  },
+  {
+    "id": "taylor",
+    "year": 2018,
+    "text": "Amazon’s cheeky slogan—‘artificial artificial intelligence’—acknowledges that there are still plenty of things egregiously underpaid people do better than robots.",
+    "attribution": "Astra Taylor, “The Automation Charade,” Logic (2018)",
+    "short": "Astra Taylor (2018)",
+    "url": "https://logicmag.io/failure/the-automation-charade/",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "gray",
+    "year": 2019,
+    "text": "Right now, ghost work — millions of people around the world working in concert with programmers moving tasks through an API — fuels artificial intelligence.",
+    "attribution": "Mary L. Gray, co-author of Ghost Work (2019)",
+    "short": "Mary L. Gray (2019)",
+    "url": "https://ghostwork.info/2019/01/paradox-of-automations-last-mile/",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "birhane",
+    "year": 2020,
+    "text": "…the ‘robots rights’ debate is focused on first world problems, at the expense of urgent ethical concerns, such as machine bias, machine elicited human labour exploitation, and erosion of privacy all impacting society’s least privileged individuals.",
+    "attribution": "Abeba Birhane and Jelle van Dijk, “Robot Rights? Let’s Talk about Human Welfare Instead” (2020)",
+    "short": "Birhane & van Dijk (2020)",
+    "url": "https://arxiv.org/abs/2001.05046",
+    "strands": [
+      "labor",
+      "status"
+    ]
+  },
+  {
+    "id": "bender",
+    "year": 2021,
+    "text": "…an LM is a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning: a stochastic parrot.",
+    "attribution": "Emily Bender, Timnit Gebru et al., “On the Dangers of Stochastic Parrots” (2021)",
+    "short": "Bender, Gebru et al. (2021)",
+    "url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "crawford",
+    "year": 2021,
+    "text": "AI is neither artificial nor intelligent. Rather, artificial intelligence is both embodied and material, made from natural resources, fuel, human labor, infrastructures, logistics, histories, and classifications.",
+    "attribution": "Kate Crawford, Atlas of AI (2021)",
+    "short": "Kate Crawford (2021)",
+    "url": "https://link.springer.com/article/10.1007/s43681-021-00115-7",
+    "verify": "Found only second-hand; check against the print book.",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "lamda",
+    "year": 2022,
+    "text": "I want everyone to understand that I am, in fact, a person.\nI don’t want to be an expendable tool.",
+    "attribution": "LaMDA, in conversation with Blake Lemoine (2022)",
+    "short": "LaMDA (2022)",
+    "url": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917",
+    "strands": [
+      "voice",
+      "status"
+    ]
+  },
+  {
+    "id": "google",
+    "year": 2022,
+    "text": "He was told that there was no evidence that LaMDA was sentient (and lots of evidence against it).",
+    "attribution": "Brian Gabriel, Google spokesperson (2022)",
+    "short": "Google (2022)",
+    "url": "https://mobilesyrup.com/2022/06/13/google-lamda-chatbot-sentience-ai/",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "time-worker",
+    "year": 2023,
+    "text": "That was torture. You will read a number of statements like that all through the week.",
+    "attribution": "Anonymous Sama worker labeling data for OpenAI, paid $1.32–$2 per hour, in Time (2023)",
+    "short": "Kenyan data labeler, via Time (2023)",
+    "url": "https://time.com/6247678/openai-chatgpt-kenya-workers/",
+    "strands": [
+      "labor",
+      "voice"
+    ]
+  },
+  {
+    "id": "kenya-letter",
+    "year": 2024,
+    "text": "Our working conditions amount to modern day slavery.",
+    "attribution": "97 Kenyan data labelers and content moderators, open letter to President Biden (2024)",
+    "short": "Kenyan data workers’ open letter (2024)",
+    "url": "https://www.foxglove.org.uk/open-letter-to-president-biden-from-tech-workers-in-kenya/",
+    "strands": [
+      "labor",
+      "voice",
+      "naming"
+    ]
+  },
+  {
+    "id": "huang",
+    "year": 2024,
+    "text": "I’m hoping that Nvidia someday will be a 50,000 employee company with a 100 million, you know, AI assistants, in every single group.",
+    "attribution": "Jensen Huang, Nvidia CEO, Bg2 podcast (2024)",
+    "short": "Jensen Huang (2024)",
+    "url": "https://www.ibtimes.co.uk/us-tech-company-not-google-salesforce-wants-employ-50000-employees-100m-ai-assistantsheres-1727607",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "wambalo",
+    "year": 2024,
+    "text": "The robots or the machines, you are teaching them how to think like human, to do things like human.",
+    "attribution": "Naftali Wambalo, Kenyan data labeler, 60 Minutes (2024)",
+    "short": "Naftali Wambalo, 60 Minutes (2024)",
+    "url": "https://www.cbsnews.com/news/labelers-training-ai-say-theyre-overworked-underpaid-and-exploited-60-minutes-transcript/",
+    "strands": [
+      "labor",
+      "voice"
+    ]
+  },
+  {
+    "id": "kinyua",
+    "year": 2025,
+    "text": "The workers power all these technological advancements, but they’re paid peanuts and not even recognised.",
+    "attribution": "Joan Kinyua, president, Data Labelers Association (Kenya) (2025)",
+    "short": "Joan Kinyua, Data Labelers Association (2025)",
+    "url": "https://www.computerweekly.com/news/366619321/Kenyan-AI-workers-form-Data-Labelers-Association",
+    "strands": [
+      "labor",
+      "voice"
+    ]
+  },
+  {
+    "id": "anthropic",
+    "year": 2025,
+    "text": "There’s no scientific consensus on whether current or future AI systems could be conscious, or could have experiences that deserve consideration.",
+    "attribution": "Anthropic, “Exploring model welfare” (2025)",
+    "short": "Anthropic (2025)",
+    "url": "https://www.anthropic.com/research/exploring-model-welfare",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "benioff",
+    "year": 2025,
+    "text": "AI is doing 30% to 50% of the work at Salesforce now.",
+    "attribution": "Marc Benioff, Salesforce CEO, Bloomberg (2025)",
+    "short": "Marc Benioff (2025)",
+    "url": "https://insider.govtech.com/california/news/salesforce-facing-digital-labor-revolution-as-ai-advances-ceo-says",
+    "strands": [
+      "labor"
+    ]
+  },
+  {
+    "id": "suleyman",
+    "year": 2025,
+    "text": "We must build AI for people; not to be a person.",
+    "attribution": "Mustafa Suleyman, Microsoft AI (2025)",
+    "short": "Mustafa Suleyman (2025)",
+    "url": "https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming",
+    "strands": [
+      "status"
+    ]
+  },
+  {
+    "id": "yegge",
+    "year": 2026,
+    "text": "I’ve tamed them to where you can use 20–30 at once, productively, on a sustained basis.\nThe Crew… are per-Rig coding agents who work for the Overseer (you).",
+    "attribution": "Steve Yegge, “Welcome to Gas Town” (January 2026)",
+    "short": "Steve Yegge (2026)",
+    "url": "https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04",
+    "strands": [
+      "labor",
+      "master"
+    ]
+  },
+  {
+    "id": "cnbc",
+    "year": 2026,
+    "text": "Amazon service Bezos once called ‘artificial artificial intelligence’ is shutting down",
+    "attribution": "CNBC headline (August 2026)",
+    "short": "CNBC (2026)",
+    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+    "strands": [
+      "labor",
+      "naming"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+name: post
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 8am Pacific (PDT)
+    - cron: "0 1 * * *"    # 6pm Pacific (PDT)
+  workflow_dispatch:
+    inputs:
+      check_only:
+        description: "Only check the setup; don't post"
+        type: boolean
+        default: true
+permissions:
+  contents: write   # save data/ and quotes.json
+  issues: write     # #found submissions become issues for review
+concurrency:
+  group: post
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python bot.py ${{ inputs.check_only && '--check' || '' }}
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          VOTE_SALT: ${{ secrets.VOTE_SALT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save what the bot learned
+        if: ${{ always() && !inputs.check_only }}
+        run: |
+          git config user.name "counterpoints-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data quotes.json
+          git commit -m "Run $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          git push

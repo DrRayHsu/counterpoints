@@ -1,0 +1,36 @@
+{
+  "start_mode": "cross-era",
+  "mode_override": null,
+  "era_cutoff": 2000,
+  "seed": "counterpoints",
+  "report_every_days": 7,
+  "ack_submissions": true,
+
+  "mood_modes": {
+    "quiet": "random",
+    "objecting": "same-strand",
+    "agreeing": "cross-strand",
+    "contested": "cross-era"
+  },
+  "mood": {
+    "min_votes": 5,
+    "lopsided": 0.65,
+    "quiet_engagement": 2,
+    "max_votes_per_account": 5
+  },
+  "weights": {
+    "floor": 0.2,
+    "unseen": 1.0,
+    "fresh": 4.0,
+    "quote_contest": 2.0,
+    "pair_contest": 3.0,
+    "k": 3,
+    "no_repeat": 40
+  },
+
+  "blocklist": [],
+  "curated": [
+    ["wiener", "kenya-letter"],
+    ["aristotle-politics", "yegge"]
+  ]
+}
