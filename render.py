@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 W, MARGIN = 1600, 130
 BG, FG, MUTED, RULE = (250, 248, 243), (28, 26, 23), (110, 104, 96), (200, 194, 184)
-F = Path(__file__).parent / "fonts"
+F = Path(__file__).parent
 font_q = ImageFont.truetype(str(F / "EBGaramond-400-normal.ttf"), 50)
 font_a = ImageFont.truetype(str(F / "EBGaramond-400-italic.ttf"), 34)
 font_t = ImageFont.truetype(str(F / "EBGaramond-500-normal.ttf"), 28)
