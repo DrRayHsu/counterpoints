@@ -9,6 +9,22 @@
     ],
     "at": "2026-09-22T21:10:53.000Z",
     "mode": "cross-era",
+    "votes": {},
+    "likes": 2,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+  },
+  {
+    "n": 1,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mw6dqhx3pz2t",
+    "cid": "bafyreiasguumd4qjkhaivci2h3zng3rvsbuplyzadpofvr47mxwa253ktu",
+    "pair": [
+      "asimov",
+      "wambalo"
+    ],
+    "at": "2026-09-23T08:39:42.000Z",
+    "mode": "cross-era",
     "votes": {}
   }
 ]
