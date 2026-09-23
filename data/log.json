@@ -25,6 +25,22 @@
     ],
     "at": "2026-09-23T08:39:42.000Z",
     "mode": "cross-era",
+    "votes": {},
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+  },
+  {
+    "n": 2,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mw7grzlx3o26",
+    "cid": "bafyreicciy36gq5gs2fkxlhqocpreact5fmmdmlgycsh6szpl57vuzxhwq",
+    "pair": [
+      "patterson",
+      "yegge"
+    ],
+    "at": "2026-09-23T19:06:55.000Z",
+    "mode": "cross-era",
     "votes": {}
   }
 ]
