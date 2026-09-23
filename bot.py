@@ -229,7 +229,14 @@ def post_pair(bsky, state, log, quotes, now):
 
 # ---------- run ----------
 
-def run(bsky, gh, now):
+def post_is_due(log, now, force=False):
+    if force or not log:
+        return True
+    last = datetime.fromisoformat(log[-1]["at"].replace("Z", "+00:00"))
+    return now - last >= timedelta(hours=CONFIG.get("min_hours_between_posts", 6))
+
+
+def run(bsky, gh, now, force=False):
     state = load("state.json", {"n": 0, "mode": CONFIG["start_mode"], "notif_seen": None, "last_report": None})
     log = load("log.json", [])
     if gh.ok:
@@ -246,6 +253,8 @@ def run(bsky, gh, now):
         report(bsky, gh, state, log, quotes, now)
     save("state.json", state)
 
+    if not post_is_due(log, now, force):
+        return None
     pair = post_pair(bsky, state, log, quotes, now)
     save("state.json", state), save("log.json", log)
     return pair
@@ -301,7 +310,12 @@ def main():
     if args.check:
         return check()
     bsky = Bsky(os.environ["BSKY_HANDLE"], os.environ["BSKY_APP_PASSWORD"])
-    ia, ib = run(bsky, GitHub(), now)
+    force = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    pair = run(bsky, GitHub(), now, force=force)
+    if pair is None:
+        print("last post was recent; checked replies, didn't post")
+        return
+    ia, ib = pair
     print(f"posted {ia} × {ib}")
 
 

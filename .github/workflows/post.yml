@@ -1,8 +1,13 @@
 name: post
 on:
   schedule:
-    - cron: "0 15 * * *"   # 8am Pacific (PDT)
-    - cron: "0 1 * * *"    # 6pm Pacific (PDT)
+    # Each slot has a backup because GitHub can delay or skip scheduled runs.
+    # The bot only posts if the last post was long enough ago, so a backup
+    # that runs after a successful main run just checks replies.
+    - cron: "23 15 * * *"   # ~8:23am Pacific (PDT)
+    - cron: "23 17 * * *"   # ~10:23am Pacific, backup
+    - cron: "23 1 * * *"    # ~6:23pm Pacific (PDT)
+    - cron: "23 3 * * *"    # ~8:23pm Pacific, backup
   workflow_dispatch:
     inputs:
       check_only:
