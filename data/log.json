@@ -78,5 +78,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 5,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mwd4ermryc2q",
+    "cid": "bafyreig4hh4v3bura2rr6oiydt5q7kgnolfqttg6sjncjsnhziprekqpp4",
+    "pair": [
+      "aristotle-politics",
+      "gray"
+    ],
+    "at": "2026-09-25T06:11:12.000Z",
+    "mode": "cross-era",
+    "votes": {}
   }
 ]
