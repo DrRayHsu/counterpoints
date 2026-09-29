@@ -1,7 +1,19 @@
 {
   "n": 15,
-  "mode": "cross-era",
+  "mode": "random",
   "notif_seen": null,
-  "last_report": "2026-09-22T21:10:53.000Z",
-  "submissions_seen": []
+  "last_report": "2026-09-29T21:26:49.000Z",
+  "submissions_seen": [],
+  "moods": [
+    {
+      "at": "2026-09-29T21:26:49.000Z",
+      "mood": "quiet",
+      "mode": "random",
+      "holds": 0,
+      "breaks": 0,
+      "engagement": 2,
+      "per_post": 0.13333333333333333,
+      "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mworfomnt427"
+    }
+  ]
 }
