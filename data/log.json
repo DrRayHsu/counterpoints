@@ -222,5 +222,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 14,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mwomouh5jm27",
+    "cid": "bafyreihoukyrxuieajmurybfhgtx4bbeabkqwicnc5zexm32kj26xy2c4a",
+    "pair": [
+      "wiener",
+      "kinyua"
+    ],
+    "at": "2026-09-29T20:02:27.000Z",
+    "mode": "cross-era",
+    "votes": {}
   }
 ]
