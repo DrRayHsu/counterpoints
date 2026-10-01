@@ -297,6 +297,10 @@
     ],
     "at": "2026-10-01T20:22:56.000Z",
     "mode": "random",
-    "votes": {}
+    "votes": {},
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
   }
 ]
