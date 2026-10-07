@@ -489,6 +489,10 @@
     ],
     "at": "2026-10-07T20:40:00.000Z",
     "mode": "random",
-    "votes": {}
+    "votes": {},
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
   }
 ]
