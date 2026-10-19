@@ -863,6 +863,12 @@
     ],
     "at": "2026-10-19T06:16:54.000Z",
     "mode": "random",
-    "votes": {}
+    "votes": {
+      "9af116c6a4b66d86": "holds"
+    },
+    "likes": 1,
+    "reposts": 0,
+    "replies": 1,
+    "quotes": 0
   }
 ]
