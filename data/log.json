@@ -998,5 +998,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 62,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mykvk7qaby25",
+    "cid": "bafyreiaxtdyal2dyntbypner7i4kwju6mvwqwpitjk2jjnkyl45a3n5lkq",
+    "pair": [
+      "capek-radius",
+      "kinyua"
+    ],
+    "at": "2026-10-23T19:20:39.000Z",
+    "mode": "random",
+    "votes": {}
   }
 ]
