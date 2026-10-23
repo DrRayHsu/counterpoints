@@ -993,6 +993,10 @@
     ],
     "at": "2026-10-23T06:04:44.000Z",
     "mode": "random",
-    "votes": {}
+    "votes": {},
+    "likes": 0,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
   }
 ]
