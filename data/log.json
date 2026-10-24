@@ -1025,6 +1025,22 @@
     ],
     "at": "2026-10-24T08:12:56.000Z",
     "mode": "random",
+    "votes": {},
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "quotes": 0
+  },
+  {
+    "n": 64,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3myncbxppyp22",
+    "cid": "bafyreidhmpqokmhhminu422235qfxm3jcz27wyi7ofsnvg7eeiplkwlhqq",
+    "pair": [
+      "douglass",
+      "gray"
+    ],
+    "at": "2026-10-24T18:14:01.000Z",
+    "mode": "random",
     "votes": {}
   }
 ]
