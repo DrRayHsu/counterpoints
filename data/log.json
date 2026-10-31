@@ -1254,5 +1254,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 78,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mz6zfc66ap22",
+    "cid": "bafyreie7tu5454nde7eey5tndy7ey3mbc4yu6o3s22z6z62baqcdivafqu",
+    "pair": [
+      "aristotle-politics",
+      "yegge"
+    ],
+    "at": "2026-10-31T19:22:44.000Z",
+    "mode": "random",
+    "votes": {}
   }
 ]
