@@ -702,7 +702,7 @@
     },
     "likes": 0,
     "reposts": 0,
-    "replies": 1,
+    "replies": 0,
     "quotes": 0
   },
   {
@@ -736,7 +736,7 @@
     },
     "likes": 0,
     "reposts": 0,
-    "replies": 1,
+    "replies": 0,
     "quotes": 0
   },
   {
@@ -770,7 +770,7 @@
     },
     "likes": 0,
     "reposts": 0,
-    "replies": 1,
+    "replies": 0,
     "quotes": 0
   },
   {
@@ -1492,7 +1492,19 @@
     "votes": {},
     "likes": 0,
     "reposts": 0,
-    "replies": 0,
+    "replies": 1,
     "quotes": 0
+  },
+  {
+    "n": 93,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3mzrv4l5a6j2n",
+    "cid": "bafyreihnapcias7gtccl54kbgu3uedeyiz67ztcuaqmnjqvytwpjtmveua",
+    "pair": [
+      "anthropic",
+      "benioff"
+    ],
+    "at": "2026-11-08T07:26:51.000Z",
+    "mode": "random",
+    "votes": {}
   }
 ]
