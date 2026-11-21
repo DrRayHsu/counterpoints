@@ -1910,5 +1910,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 119,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3n2so53uwx72a",
+    "cid": "bafyreiakaesiigqef7sl4rgzzy5sjgsjmofjrsvv6jo7jjcilnqd6ef5iu",
+    "pair": [
+      "kinyua",
+      "cnbc"
+    ],
+    "at": "2026-11-21T08:19:45.000Z",
+    "mode": "random",
+    "votes": {}
   }
 ]
