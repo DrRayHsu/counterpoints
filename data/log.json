@@ -2006,5 +2006,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 125,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3n32ilvw3zo2z",
+    "cid": "bafyreicbxdux2vvgjlukcehe5eavsvwzhsw6w6gimz5embe5ykf3acbk3m",
+    "pair": [
+      "petronius",
+      "anthropic"
+    ],
+    "at": "2026-11-24T11:01:58.000Z",
+    "mode": "random",
+    "votes": {}
   }
 ]
