@@ -2118,5 +2118,17 @@
     "reposts": 0,
     "replies": 0,
     "quotes": 0
+  },
+  {
+    "n": 132,
+    "uri": "at://did:plc:ispxol4zzvhx4ur3fzuclucg/app.bsky.feed.post/3n3ddxa5gy72g",
+    "cid": "bafyreicmcjbiufpxdthnst7iyfju2tpvr6l34w2cljkbqyzhgur3ktnl4y",
+    "pair": [
+      "aristotle-politics",
+      "google"
+    ],
+    "at": "2026-11-27T23:32:46.000Z",
+    "mode": "random",
+    "votes": {}
   }
 ]
